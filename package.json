@@ -10,10 +10,6 @@
     "test": "ng test",
     "heroku-postbuild": "ng build -aot"
   },
-  "engines": {
-    "node": "15.2.0",
-    "npm": "7.0.12"
-  },
   "private": true,
   "dependencies": {
     "@angular/animations": "~12.2.0",
